@@ -1,0 +1,17 @@
+Package: yytools
+Type: Package
+Title: Useful functions
+Version: 0.1.0
+Author: Yizhou Yu
+Maintainer: Yizhou Yu <yizhou0421@gmail.com>
+Description: yy_plt for making plots, yy
+    More description stuff
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.1
+Imports: ggplot2
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
